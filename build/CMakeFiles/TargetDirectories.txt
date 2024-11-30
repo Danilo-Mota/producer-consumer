@@ -1,0 +1,3 @@
+/home/danilomota/Projetos/impressora/build/CMakeFiles/impressora.dir
+/home/danilomota/Projetos/impressora/build/CMakeFiles/edit_cache.dir
+/home/danilomota/Projetos/impressora/build/CMakeFiles/rebuild_cache.dir
